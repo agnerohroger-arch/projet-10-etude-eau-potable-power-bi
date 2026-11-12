@@ -33,8 +33,8 @@ Comment transformer des données sur l'eau potable en indicateurs et visualisati
 ## Contexte
 
 Projet pédagogique réalisé dans le cadre du parcours Data Analyst OpenClassrooms.
- Copier le README
+ 
 ## Tableau de bord Power BI
 
 [📊 Consulter le tableau de bord au format PDF](Projet_10_Eau_Potable_Portfolio.pdf)
- Copier
+ 
